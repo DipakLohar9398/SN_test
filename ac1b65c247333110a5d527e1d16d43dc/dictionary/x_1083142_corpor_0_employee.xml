@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5f61b58a47333110a5d527e1d16d4373" extends="sys_user" label="Employee" max_length="40" name="x_1083142_corpor_0_employee" type="collection">
+        <element label="Awards/Appreciations" max_length="1000" name="awards_appreciations" type="string"/>
+        <element label="E-Wallet Balance" max_length="40" name="e_wallet_balance" read_only="true" type="integer"/>
+        <element default="javascript:   var gdt = new GlideDateTime();gdt.addMonthsUTC(3);gdt.getDisplayValue();" label="E-Wallet Balance Validity" max_length="40" name="e_wallet_balance_validity" type="glide_date"/>
+        <element label="E-Wallet Budget" max_length="40" name="e_wallet_budget" read_only="true" type="integer"/>
+        <element default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Position Level" max_length="40" name="position_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Associate" value="Associate"/>
+                <element inactive_on_update="false" label="Delivery Head" value="Delivery Head"/>
+                <element inactive_on_update="false" label="Director" value="Director"/>
+                <element inactive_on_update="false" label="HR" value="HR"/>
+                <element inactive_on_update="false" label="Manager" value="Manager"/>
+                <element inactive_on_update="false" label="Senior Associate" value="Senior Associate"/>
+                <element inactive_on_update="false" label="Senior Manager" value="Senior Manager"/>
+                <element inactive_on_update="false" label="Technical Lead" value="Technical Lead"/>
+            </choice>
+        </element>
+        <element choice="1" label="Project/Account" max_length="40" name="project_account" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ABZ Consultancy" value="ABZ Consultancy"/>
+                <element inactive_on_update="false" label="PTL India Ltd." value="PTL India Ltd."/>
+                <element inactive_on_update="false" label="Qwerty Hospitals" value="Qwerty Hospitals"/>
+                <element inactive_on_update="false" label="YUC Motors" value="YUC Motors"/>
+                <element inactive_on_update="false" label="Zone IT Services" value="Zone IT Services"/>
+            </choice>
+        </element>
+    </element>
+</database>

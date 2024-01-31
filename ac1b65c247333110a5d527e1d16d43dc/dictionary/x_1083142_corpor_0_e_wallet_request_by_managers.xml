@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="1b1fe50f47373110a5d527e1d16d4371" extends="task" label="E-Wallet Request by Managers" max_length="40" name="x_1083142_corpor_0_e_wallet_request_by_managers" type="collection">
+        <element label="Requested By (Manager)" max_length="32" name="requested_by_manager" reference="sys_user" type="reference"/>
+        <element label="Requested For (Employee)" max_length="32" name="requested_for_employee" reference="sys_user" type="reference"/>
+        <element choice="1" label="Request Status" max_length="40" name="request_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approval Requested" value="Approval Requested"/>
+                <element inactive_on_update="false" label="Approved" value="Approved"/>
+                <element inactive_on_update="false" label="Cancelled" value="Cancelled"/>
+                <element inactive_on_update="false" label="Completed" value="Completed"/>
+                <element inactive_on_update="false" label="Rejected" value="Rejected"/>
+                <element inactive_on_update="false" label="Submitted" value="Submitted"/>
+            </choice>
+        </element>
+    </element>
+</database>

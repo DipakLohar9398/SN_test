@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>E-Wallet Request by Managers</name>
+        <order>100</order>
+        <roles>x_1083142_corpor_0.e_wallet_request_by_managers_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 10:01:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>61afa1cb47373110a5d527e1d16d434e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>E-Wallet Request by Managers</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Corporate Gifting" source="x_1083142_corpor_0">ac1b65c247333110a5d527e1d16d43dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</sys_scope>
+        <sys_update_name>sys_app_application_61afa1cb47373110a5d527e1d16d434e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-22 10:01:34</sys_updated_on>
+        <title>E-Wallet Request by Managers</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</application>
+        <file_path/>
+        <instance_id>35da0e88dbb6f118b1eb9027c5961943</instance_id>
+        <instance_name>dev223437</instance_name>
+        <name>sys_app_application_61afa1cb47373110a5d527e1d16d434e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>E-Wallet Request by Managers</name><order>100</order><roles>x_1083142_corpor_0.e_wallet_request_by_managers_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-22 10:01:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>61afa1cb47373110a5d527e1d16d434e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>E-Wallet Request by Managers</sys_name><sys_overrides/><sys_package display_value="Corporate Gifting" source="x_1083142_corpor_0">ac1b65c247333110a5d527e1d16d43dc</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</sys_scope><sys_update_name>sys_app_application_61afa1cb47373110a5d527e1d16d434e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-22 10:01:34</sys_updated_on><title>E-Wallet Request by Managers</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>253066720</payload_hash>
+        <record_name>E-Wallet Request by Managers</record_name>
+        <reverted_from/>
+        <source>ec1b65c247333110a5d527e1d16d43e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 10:01:34</sys_created_on>
+        <sys_id>65afe14f47373110a5d527e1d16d4310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d309e42290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-22 10:01:34</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>a9afe14f3a3731105689dbde8b059b0f</update_guid>
+        <update_guid_history>a9afe14f3a3731105689dbde8b059b0f:253066720</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="E-Wallet Request by Managers">f4f01a2947000210a5d527e1d16d431e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 06:51:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>211f86e29da14c968bf391b1a9e17f59</sys_id>
+        <sys_metadata>61afa1cb47373110a5d527e1d16d434e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>E-Wallet Request by Managers</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1083142_corpor_0">ac1b65c247333110a5d527e1d16d43dc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</sys_scope>
+        <sys_scope_delete display_value="">2f2cb286e63f419090fd16a5453d8100</sys_scope_delete>
+        <sys_update_name>sys_app_application_61afa1cb47373110a5d527e1d16d434e</sys_update_name>
+        <sys_update_version display_value="sys_app_application_61afa1cb47373110a5d527e1d16d434e">65afe14f47373110a5d527e1d16d4310</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 06:51:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
