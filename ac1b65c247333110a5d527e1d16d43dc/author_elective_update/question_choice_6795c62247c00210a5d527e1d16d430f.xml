@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="E-Voucher Amount">b265ceee47800210a5d527e1d16d43fc</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 08:36:51</sys_created_on>
+        <sys_id>6795c62247c00210a5d527e1d16d430f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rs.100</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1083142_corpor_0">ac1b65c247333110a5d527e1d16d43dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</sys_scope>
+        <sys_update_name>question_choice_6795c62247c00210a5d527e1d16d430f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 08:36:51</sys_updated_on>
+        <text>Rs.100</text>
+        <value>Rs.100</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=6795c62247c00210a5d527e1d16d430f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</application>
+        <file_path/>
+        <instance_id>35da0e88dbb6f118b1eb9027c5961943</instance_id>
+        <instance_name>dev223437</instance_name>
+        <name>question_choice_6795c62247c00210a5d527e1d16d430f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="E-Voucher Amount">b265ceee47800210a5d527e1d16d43fc</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-02 08:36:51</sys_created_on><sys_id>6795c62247c00210a5d527e1d16d430f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Rs.100</sys_name><sys_package display_value="Corporate Gifting" source="x_1083142_corpor_0">ac1b65c247333110a5d527e1d16d43dc</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</sys_scope><sys_update_name>question_choice_6795c62247c00210a5d527e1d16d430f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-02 08:36:51</sys_updated_on><text>Rs.100</text><value>Rs.100</value></question_choice><fx_price action="delete_multiple" query="id=6795c62247c00210a5d527e1d16d430f"/></record_update>]]></payload>
+        <payload_hash>-113932851</payload_hash>
+        <record_name>Rs.100</record_name>
+        <reverted_from/>
+        <source>3dc92bf947c44210a5d527e1d16d431a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 08:36:51</sys_created_on>
+        <sys_id>ccc5062247c00210a5d527e1d16d43f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d68f6a7330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 08:36:51</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>04c50622b5c0021041256e85f79fdaf5</update_guid>
+        <update_guid_history>04c50622b5c0021041256e85f79fdaf5:-113932851</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Rs.100">260555ef47800210a5d527e1d16d437a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 07:37:58</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>4394d24d396a4ea092932ab951926810</sys_id>
+        <sys_metadata>6795c62247c00210a5d527e1d16d430f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rs.100</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1083142_corpor_0">ac1b65c247333110a5d527e1d16d43dc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</sys_scope>
+        <sys_scope_delete display_value="">2f2cb286e63f419090fd16a5453d8100</sys_scope_delete>
+        <sys_update_name>question_choice_6795c62247c00210a5d527e1d16d430f</sys_update_name>
+        <sys_update_version display_value="question_choice_6795c62247c00210a5d527e1d16d430f">ccc5062247c00210a5d527e1d16d43f5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 07:37:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

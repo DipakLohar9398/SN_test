@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="E-Voucher Brand">2a62022a47800210a5d527e1d16d43f6</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 08:33:31</sys_created_on>
+        <sys_id>c5e48aee47800210a5d527e1d16d4332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Flipkart</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1083142_corpor_0">ac1b65c247333110a5d527e1d16d43dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</sys_scope>
+        <sys_update_name>question_choice_c5e48aee47800210a5d527e1d16d4332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 08:33:31</sys_updated_on>
+        <text>Flipkart</text>
+        <value/>
+    </question_choice>
+    <fx_price action="DELETE" query="id=c5e48aee47800210a5d527e1d16d4332"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</application>
+        <file_path/>
+        <instance_id>35da0e88dbb6f118b1eb9027c5961943</instance_id>
+        <instance_name>dev223437</instance_name>
+        <name>question_choice_c5e48aee47800210a5d527e1d16d4332</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="E-Voucher Brand">2a62022a47800210a5d527e1d16d43f6</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-02 08:33:31</sys_created_on><sys_id>c5e48aee47800210a5d527e1d16d4332</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Flipkart</sys_name><sys_package display_value="Corporate Gifting" source="x_1083142_corpor_0">ac1b65c247333110a5d527e1d16d43dc</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</sys_scope><sys_update_name>question_choice_c5e48aee47800210a5d527e1d16d4332</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-02 08:33:31</sys_updated_on><text>Flipkart</text><value/></question_choice><fx_price action="delete_multiple" query="id=c5e48aee47800210a5d527e1d16d4332"/></record_update>]]></payload>
+        <payload_hash>2106788851</payload_hash>
+        <record_name>Flipkart</record_name>
+        <reverted_from/>
+        <source>3dc92bf947c44210a5d527e1d16d431a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 08:33:31</sys_created_on>
+        <sys_id>4bf40eee47800210a5d527e1d16d4385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d68f399750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 08:33:31</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>8ff40eee5d800210e7b782bdaf559e84</update_guid>
+        <update_guid_history>8ff40eee5d800210e7b782bdaf559e84:2106788851</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Flipkart">520555ef47800210a5d527e1d16d433c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 07:37:57</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>5d6a1802812a41ea91c9ef3777352031</sys_id>
+        <sys_metadata>c5e48aee47800210a5d527e1d16d4332</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Flipkart</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1083142_corpor_0">ac1b65c247333110a5d527e1d16d43dc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">ac1b65c247333110a5d527e1d16d43dc</sys_scope>
+        <sys_scope_delete display_value="">2f2cb286e63f419090fd16a5453d8100</sys_scope_delete>
+        <sys_update_name>question_choice_c5e48aee47800210a5d527e1d16d4332</sys_update_name>
+        <sys_update_version display_value="question_choice_c5e48aee47800210a5d527e1d16d4332">4bf40eee47800210a5d527e1d16d4385</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 07:37:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
